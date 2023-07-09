@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gayatri
+- 👋 Hi, I’m Gayatri, a final year Computer Science Engineering student.
 - 👀 I’m interested in working for Data Analysis, Python, and Web development projects.
 
 
