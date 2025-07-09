@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Gayatri, a final year Computer Science Engineering student.
-- 👀 I’m interested in working for Data Analysis, Python, and Web development projects.
+- 👋 Hi, I’m Gayatri, a Software Engineer with a degree in Computer Science Engineering.
+- 👀 I’m interested in working for Data Analysis and Python projects.
 
 
 <!---
